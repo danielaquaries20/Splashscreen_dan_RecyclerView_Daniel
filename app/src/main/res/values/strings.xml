@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Splashscreen dan RecyclerView Daniel AP</string>
+    <string name="daniel_aquaries_pratama">Daniel Aquaries Pratama</string>
+    <string name="image_picture">image picture</string>
+    <string name="picture_chrysanthemum">Picture Chrysanthemum</string>
+
+    <string-array name="name_picture">
+        <item>Chrysanthemum</item>
+        <item>Hydrangeas</item>
+        <item>Tulips</item>
+        <item>Desert</item>
+        <item>Koala</item>
+        <item>Penguins</item>
+        <item>Lighthouse</item>
+        <item>Jellyfish</item>
+    </string-array>
+
+    <array name="image_picture">
+        <item>@drawable/bunga_chrysanthemum</item>
+        <item>@drawable/bunga_hydrangeas</item>
+        <item>@drawable/bunga_tulips</item>
+        <item>@drawable/gurun</item>
+        <item>@drawable/hewan_koala</item>
+        <item>@drawable/hewan_penguins</item>
+        <item>@drawable/light_house</item>
+        <item>@drawable/ubur_ubur</item>
+    </array>
+
+</resources>
